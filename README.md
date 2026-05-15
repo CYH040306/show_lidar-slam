@@ -65,6 +65,9 @@
 
 <img width="430" height="287" alt="GACRT025_1752455187_rgb" src="https://github.com/user-attachments/assets/4324b462-bd65-4893-a1f2-8e1de9f4e25e" />
 
+<img width="2335" height="1004" alt="image" src="https://github.com/user-attachments/assets/4b14fc96-1eee-42c6-9412-37ef76e64f55" />
+
+
 ### 10. IMU 鲁棒性增强
 
 针对车辆经过减速带、坑洼路面或剧烈振动场景下可能出现的 IMU 异常波动，探索了异常检测与鲁棒处理机制，以提升运动补偿和位姿估计稳定性。
